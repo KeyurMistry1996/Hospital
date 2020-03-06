@@ -1,0 +1,24 @@
+main {
+
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 10px 10px;
+}
+
+.cell {
+  height: 20vh;
+  color: #24252A;
+  background-color: #bdc3c7;
+}
+
+.cellrow .column {
+  float: left;
+  font-size: 25px;
+}
+
+.cellrow img {
+  margin-top: 10%;
+  margin-left: 10%;
+}

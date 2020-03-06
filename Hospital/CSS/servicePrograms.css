@@ -1,0 +1,55 @@
+.title_service {
+
+    margin-top: 10px;
+    height: 60vh;
+    background-image: url("/Asset/Group\ 1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Roboto, sans-serif;
+}
+
+main .row {
+    display: flex;
+    background-color: ivory;
+
+}
+
+main .row .info {
+    text-align: center;
+    height: 400px;
+}
+
+main .row a:hover {
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: #3498db;
+    background-color: ivory;
+    border: 1px solid #3498db;
+}
+
+main .row p:hover {
+    color: #3498db;
+}
+
+main .row a {
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #3498db;
+    color: ivory;
+
+}
+
+main .row img {
+
+    border-radius: 50%;
+    margin-left: 20%;
+    margin-top: 20px;
+    height: 350px;
+    width: 350px;
+
+}

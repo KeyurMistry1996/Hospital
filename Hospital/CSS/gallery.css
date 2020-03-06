@@ -1,0 +1,34 @@
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+main .gallery_title {
+    width: 100%;
+    font-size: 2.2em;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+}
+
+.grid .row {
+    display: flex;
+    justify-content: center;
+
+}
+
+.last {
+    height: "240px";
+}
+
+.grid .row .column img {
+    width: 425px;
+    padding: 5px 10px;
+}
+
+.image {
+    height: 600px;
+}

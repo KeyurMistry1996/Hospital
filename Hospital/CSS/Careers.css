@@ -1,0 +1,40 @@
+main {
+    background-color: ivory;
+}
+
+.careers-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.careers-title h3 {
+    font-size: 2.2em;
+    font-family: Roboto, sans-serif;
+    text-decoration: underline;
+}
+
+.one,
+.two {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    padding: 0 100px;
+
+}
+
+.two h4 {
+    font-size: 1.4em;
+    font-family: Roboto, sans-serif;
+
+}
+
+.two img {
+    margin-top: 50px;
+}
+
+.one img,
+.two img {
+    height: 300px;
+    width: 350px;
+}
