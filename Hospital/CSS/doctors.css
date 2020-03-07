@@ -21,4 +21,6 @@ main {
 .cellrow img {
   margin-top: 10%;
   margin-left: 10%;
+  height: 100px;
+  width: 100px;
 }
