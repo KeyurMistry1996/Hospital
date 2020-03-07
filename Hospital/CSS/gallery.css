@@ -27,6 +27,14 @@ main .gallery_title {
 .grid .row .column img {
     width: 425px;
     padding: 5px 10px;
+
+}
+
+.grid .row .column img:hover {
+
+    transform: scale(1.08);
+    transition: 0.4s;
+
 }
 
 .image {
